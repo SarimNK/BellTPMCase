@@ -1,6 +1,9 @@
 import PptxGenJS from 'pptxgenjs'
 import templateMaps from '../resources/template-maps.json'
 
+// Check if running locally (template server available)
+const isLocalDev = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
+
 export async function exportToPPTX(deck, internalUseOnly = true, templateId = 'bell-enterprise') {
   if (!deck || !deck.slides || deck.slides.length === 0) {
     alert('No deck to export')
@@ -8,7 +11,9 @@ export async function exportToPPTX(deck, internalUseOnly = true, templateId = 'b
   }
 
   const templateMap = templateMaps?.[templateId]
-  if (templateMap) {
+  
+  // Only try backend if running locally
+  if (templateMap && isLocalDev) {
     try {
       const response = await fetch('http://localhost:8000/api/pptx', {
         method: 'POST',
@@ -35,8 +40,8 @@ export async function exportToPPTX(deck, internalUseOnly = true, templateId = 'b
       link.remove()
       return
     } catch (error) {
-      console.error('Template export failed, falling back to basic export:', error)
-      alert('Template export failed. Falling back to basic export. Ensure the template server is running.')
+      console.error('Template server unavailable, using client-side export:', error.message)
+      // Silently fall back to client-side export - no alert needed
     }
   }
 

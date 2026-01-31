@@ -1,6 +1,6 @@
 import { processFiles } from './fileExtractor'
 
-const GEMINI_API_KEY = '***REMOVED***'
+const GEMINI_API_KEY = 'AIzaSyCLL9IM9sECOFCtjZKFck2XRn1V8NuwzNU'
 const GEMINI_BASE_URL = 'https://generativelanguage.googleapis.com/v1beta'
 
 // List available models - ACTUALLY CALL THE API
