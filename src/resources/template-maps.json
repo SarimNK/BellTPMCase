@@ -1,0 +1,467 @@
+{
+  "bell-enterprise": {
+    "template_file": "BellCanadaTemplate.pptx",
+    "title_layout_index": 0,
+    "content_layout_index": 1,
+    "title_placeholder_idx": 0,
+    "body_placeholder_idx": 1,
+    "subtitle_placeholder_idx": 4,
+    "layouts": [
+      {
+        "index": 0,
+        "name": "Title Slide",
+        "placeholders": [
+          {
+            "name": "Holder 2",
+            "idx": 0,
+            "type": "title"
+          },
+          {
+            "name": "Holder 3",
+            "idx": 4,
+            "type": "subtitle"
+          },
+          {
+            "name": "Holder 4",
+            "idx": 5,
+            "type": "other"
+          },
+          {
+            "name": "Holder 5",
+            "idx": 6,
+            "type": "other"
+          },
+          {
+            "name": "Holder 6",
+            "idx": 7,
+            "type": "other"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Title and Content",
+        "placeholders": [
+          {
+            "name": "Holder 2",
+            "idx": 0,
+            "type": "title"
+          },
+          {
+            "name": "Holder 3",
+            "idx": 1,
+            "type": "body"
+          },
+          {
+            "name": "Holder 4",
+            "idx": 5,
+            "type": "other"
+          },
+          {
+            "name": "Holder 5",
+            "idx": 6,
+            "type": "other"
+          },
+          {
+            "name": "Holder 6",
+            "idx": 7,
+            "type": "other"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Two Content",
+        "placeholders": [
+          {
+            "name": "Holder 2",
+            "idx": 0,
+            "type": "title"
+          },
+          {
+            "name": "Holder 3",
+            "idx": 2,
+            "type": "body"
+          },
+          {
+            "name": "Holder 4",
+            "idx": 3,
+            "type": "body"
+          },
+          {
+            "name": "Holder 5",
+            "idx": 5,
+            "type": "other"
+          },
+          {
+            "name": "Holder 6",
+            "idx": 6,
+            "type": "other"
+          },
+          {
+            "name": "Holder 7",
+            "idx": 7,
+            "type": "other"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Title Only",
+        "placeholders": [
+          {
+            "name": "Holder 2",
+            "idx": 0,
+            "type": "title"
+          },
+          {
+            "name": "Holder 3",
+            "idx": 5,
+            "type": "other"
+          },
+          {
+            "name": "Holder 4",
+            "idx": 6,
+            "type": "other"
+          },
+          {
+            "name": "Holder 5",
+            "idx": 7,
+            "type": "other"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Blank",
+        "placeholders": [
+          {
+            "name": "Holder 2",
+            "idx": 5,
+            "type": "other"
+          },
+          {
+            "name": "Holder 3",
+            "idx": 6,
+            "type": "other"
+          },
+          {
+            "name": "Holder 4",
+            "idx": 7,
+            "type": "other"
+          }
+        ]
+      }
+    ]
+  },
+  "internal-strategy": {
+    "template_file": "11b - alien minds - slides.pptx",
+    "title_layout_index": 0,
+    "content_layout_index": 1,
+    "title_placeholder_idx": 0,
+    "body_placeholder_idx": 1,
+    "subtitle_placeholder_idx": 4,
+    "layouts": [
+      {
+        "index": 0,
+        "name": "Title Slide",
+        "placeholders": [
+          {
+            "name": "Holder 2",
+            "idx": 0,
+            "type": "title"
+          },
+          {
+            "name": "Holder 3",
+            "idx": 4,
+            "type": "subtitle"
+          },
+          {
+            "name": "Holder 4",
+            "idx": 5,
+            "type": "other"
+          },
+          {
+            "name": "Holder 5",
+            "idx": 6,
+            "type": "other"
+          },
+          {
+            "name": "Holder 6",
+            "idx": 7,
+            "type": "other"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Title and Content",
+        "placeholders": [
+          {
+            "name": "Holder 2",
+            "idx": 0,
+            "type": "title"
+          },
+          {
+            "name": "Holder 3",
+            "idx": 1,
+            "type": "body"
+          },
+          {
+            "name": "Holder 4",
+            "idx": 5,
+            "type": "other"
+          },
+          {
+            "name": "Holder 5",
+            "idx": 6,
+            "type": "other"
+          },
+          {
+            "name": "Holder 6",
+            "idx": 7,
+            "type": "other"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Two Content",
+        "placeholders": [
+          {
+            "name": "Holder 2",
+            "idx": 0,
+            "type": "title"
+          },
+          {
+            "name": "Holder 3",
+            "idx": 2,
+            "type": "body"
+          },
+          {
+            "name": "Holder 4",
+            "idx": 3,
+            "type": "body"
+          },
+          {
+            "name": "Holder 5",
+            "idx": 5,
+            "type": "other"
+          },
+          {
+            "name": "Holder 6",
+            "idx": 6,
+            "type": "other"
+          },
+          {
+            "name": "Holder 7",
+            "idx": 7,
+            "type": "other"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Title Only",
+        "placeholders": [
+          {
+            "name": "Holder 2",
+            "idx": 0,
+            "type": "title"
+          },
+          {
+            "name": "Holder 3",
+            "idx": 5,
+            "type": "other"
+          },
+          {
+            "name": "Holder 4",
+            "idx": 6,
+            "type": "other"
+          },
+          {
+            "name": "Holder 5",
+            "idx": 7,
+            "type": "other"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Blank",
+        "placeholders": [
+          {
+            "name": "Holder 2",
+            "idx": 5,
+            "type": "other"
+          },
+          {
+            "name": "Holder 3",
+            "idx": 6,
+            "type": "other"
+          },
+          {
+            "name": "Holder 4",
+            "idx": 7,
+            "type": "other"
+          }
+        ]
+      }
+    ]
+  },
+  "quarterly-review": {
+    "template_file": "1%2B-%2BIntroduction%2Bto%2B2244.pptx",
+    "title_layout_index": 0,
+    "content_layout_index": 1,
+    "title_placeholder_idx": 0,
+    "body_placeholder_idx": 1,
+    "subtitle_placeholder_idx": 4,
+    "layouts": [
+      {
+        "index": 0,
+        "name": "Title Slide",
+        "placeholders": [
+          {
+            "name": "Holder 2",
+            "idx": 0,
+            "type": "title"
+          },
+          {
+            "name": "Holder 3",
+            "idx": 4,
+            "type": "subtitle"
+          },
+          {
+            "name": "Holder 4",
+            "idx": 5,
+            "type": "other"
+          },
+          {
+            "name": "Holder 5",
+            "idx": 6,
+            "type": "other"
+          },
+          {
+            "name": "Holder 6",
+            "idx": 7,
+            "type": "other"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Title and Content",
+        "placeholders": [
+          {
+            "name": "Holder 2",
+            "idx": 0,
+            "type": "title"
+          },
+          {
+            "name": "Holder 3",
+            "idx": 1,
+            "type": "body"
+          },
+          {
+            "name": "Holder 4",
+            "idx": 5,
+            "type": "other"
+          },
+          {
+            "name": "Holder 5",
+            "idx": 6,
+            "type": "other"
+          },
+          {
+            "name": "Holder 6",
+            "idx": 7,
+            "type": "other"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Two Content",
+        "placeholders": [
+          {
+            "name": "Holder 2",
+            "idx": 0,
+            "type": "title"
+          },
+          {
+            "name": "Holder 3",
+            "idx": 2,
+            "type": "body"
+          },
+          {
+            "name": "Holder 4",
+            "idx": 3,
+            "type": "body"
+          },
+          {
+            "name": "Holder 5",
+            "idx": 5,
+            "type": "other"
+          },
+          {
+            "name": "Holder 6",
+            "idx": 6,
+            "type": "other"
+          },
+          {
+            "name": "Holder 7",
+            "idx": 7,
+            "type": "other"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Title Only",
+        "placeholders": [
+          {
+            "name": "Holder 2",
+            "idx": 0,
+            "type": "title"
+          },
+          {
+            "name": "Holder 3",
+            "idx": 5,
+            "type": "other"
+          },
+          {
+            "name": "Holder 4",
+            "idx": 6,
+            "type": "other"
+          },
+          {
+            "name": "Holder 5",
+            "idx": 7,
+            "type": "other"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Blank",
+        "placeholders": [
+          {
+            "name": "Holder 2",
+            "idx": 5,
+            "type": "other"
+          },
+          {
+            "name": "Holder 3",
+            "idx": 6,
+            "type": "other"
+          },
+          {
+            "name": "Holder 4",
+            "idx": 7,
+            "type": "other"
+          }
+        ]
+      }
+    ]
+  }
+}
