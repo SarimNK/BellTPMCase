@@ -22,7 +22,4 @@ AI Slide Generator built for Bell TPM Intern case study
 - pptxgenjs (PowerPoint Export)
 
 
-## License
-
-Internal Bell Canada project - Not for public distribution
 
